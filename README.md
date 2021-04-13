@@ -2,7 +2,7 @@
 
 ## Website link - https://shanermacdonald.github.io/Portfolio/
 
-Website Preview ![portfolio](https://user-images.githubusercontent.com/77406856/110408452-8eb80e80-8053-11eb-88b7-efb190b819e0.png)
+Website Preview ![Portfolio](https://user-images.githubusercontent.com/77406856/114478562-8613a480-9bcc-11eb-82f9-07957f9b90dd.png)
 
 First Commit - set up the website to look similar to the one provided in terms of coding the headings and information
 
